@@ -1,0 +1,8 @@
+{
+  "origins": ["https://santosa.sh"],
+  "originsRegex": [
+    "^https://([a-z0-9-]+-)?santosa-sh\\.[a-z0-9-]+\\.workers\\.dev$",
+    "^http://localhost:[0-9]+$"
+  ],
+  "defaultCommentOrder": "oldest"
+}
